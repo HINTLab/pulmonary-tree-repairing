@@ -18,7 +18,7 @@ Accurate segmentation of pulmonary airways and vessels is crucial for the diagno
 
 ![Visualizations of the PTR dataset.](data_generation.jpg)
 
-The Pulmonary Tree Repairing (PTR) dataset is available [here](https://onedrive.live.com/?authkey=%21AEq1v5hZHJORzRA&id=66346B2D10575CA6%21252787&cid=66346B2D10575CA6). It consists of the following data splits:
+The Pulmonary Tree Repairing (PTR) dataset is available [here](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy82NjM0NmIyZDEwNTc1Y2E2L1FxWmNWeEF0YXpRZ2dHWnoyd01BQUFBQVNyV19tRmtjazVITkVB&id=66346B2D10575CA6%21252787&cid=66346B2D10575CA6). It consists of the following data splits:
 
 ### Data Structure
 
